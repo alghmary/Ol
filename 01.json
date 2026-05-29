@@ -4,21 +4,21 @@
         {
             "code": "GOLD",
             "name": "ذهب",
-            "icon": "https://cdn-icons-png.flaticon.com/512/2933/2933116.png",
+            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX56ekj8HZMQd4nfc4OLIiGhPOiwKspjAD1gxEPkpnWQ&s=10",
             "buy": 2450.00,
             "sell": 2455.00
         },
         {
             "code": "USD",
             "name": "دولار أمريكي",
-            "icon": "https://cdn-icons-png.flaticon.com/512/206/206626.png",
+            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu15av8Ng-yUFdmGKth7ZmRMn0DbjyidKwC-qBb8e94g&s=10",
             "buy": 530.00,
             "sell": 535.00
         },
         {
             "code": "EUR",
             "name": "يورو",
-            "icon": "https://cdn-icons-png.flaticon.com/512/206/206622.png",
+            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmnno7B2mxIyulOk3UqeFnulPW7OuNdTbqSuNID3X2qw&s=10",
             "buy": 580.00,
             "sell": 585.00
         },
