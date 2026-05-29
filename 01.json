@@ -3,31 +3,38 @@
     "rates": [
         {
             "code": "GOLD",
-            "name": "عودي",
-            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX56ekj8HZMQd4nfc4OLIiGhPOiwKspjAD1gxEPkpnWQ&s=10",
+            "name": "ذهب",
+            "icon": "https://cdn-icons-png.flaticon.com/512/2933/2933116.png",
             "buy": 2450.00,
             "sell": 2455.00
         },
         {
             "code": "USD",
             "name": "دولار أمريكي",
-            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mBVVj8XZVm01wkqOPymhMCo4ZTeU11iFbTB1M3j2lw&s=10",
+            "icon": "https://cdn-icons-png.flaticon.com/512/206/206626.png",
             "buy": 530.00,
             "sell": 535.00
         },
         {
             "code": "EUR",
             "name": "يورو",
-            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmnno7B2mxIyulOk3UqeFnulPW7OuNdTbqSuNID3X2qw&s=10",
+            "icon": "https://cdn-icons-png.flaticon.com/512/206/206622.png",
             "buy": 580.00,
             "sell": 585.00
         },
         {
             "code": "SAR",
             "name": "ريال سعودي",
-            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmnno7B2mxIyulOk3UqeFnulPW7OuNdTbqSuNID3X2qw&s=10",
+            "icon": "https://cdn-icons-png.flaticon.com/512/197/197573.png",
             "buy": 141.00,
             "sell": 142.50
+        },
+        {
+    "code": "GBP",
+    "name": "جنيه إسترليني",
+    "icon": "https://cdn-icons-png.flaticon.com/512/197/197374.png",
+    "buy": 670.00,
+    "sell": 675.00
         }
     ]
 }
