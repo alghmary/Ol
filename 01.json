@@ -3,7 +3,7 @@
     "rates": [
         {
             "code": "GOLD",
-            "name": "ذهب",
+            "name": "عودي",
             "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX56ekj8HZMQd4nfc4OLIiGhPOiwKspjAD1gxEPkpnWQ&s=10",
             "buy": 2450.00,
             "sell": 2455.00
