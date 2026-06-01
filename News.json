@@ -1,40 +1,12 @@
-{
-    "date": "2026-05-29",
-    "rates": [
-        {
-            "code": "GOLD",
-            "name": "ذهب",
-            "icon": "https://cdn-icons-png.flaticon.com/512/2933/2933116.png",
-            "buy": 2450.00,
-            "sell": 2455.00
-        },
-        {
-            "code": "USD",
-            "name": "دولار أمريكي",
-            "icon": "https://cdn-icons-png.flaticon.com/512/206/206626.png",
-            "buy": 530.00,
-            "sell": 535.00
-        },
-        {
-            "code": "EUR",
-            "name": "يورو",
-            "icon": "https://cdn-icons-png.flaticon.com/512/206/206622.png",
-            "buy": 580.00,
-            "sell": 585.00
-        },
-        {
-            "code": "SAR",
-            "name": "ريال سعودي",
-            "icon": "https://cdn-icons-png.flaticon.com/512/197/197573.png",
-            "buy": 141.00,
-            "sell": 142.50
-        },
-        {
-    "code": "GBP",
-    "name": "جنيه إسترليني",
-    "icon": "https://cdn-icons-png.flaticon.com/512/197/197374.png",
-    "buy": 670.00,
-    "sell": 675.00
-        }
-    ]
-}
+[
+  {
+    "id": "1",
+    "title": "العنوان",
+    "description": "الوصف",
+    "hash": "d4aa9b4c496d9efb21e577c1f795f5543775fd614c001d754e328b6a73a8ed9b",
+    "type": "user_content",
+    "url": "http://رابط الذي يجب تحميله فقط",
+    "updated_at": "2026-05-31 02:18:00",
+    "keep_forever": false
+  }
+]
